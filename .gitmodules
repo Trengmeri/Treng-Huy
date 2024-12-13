@@ -1,0 +1,6 @@
+[submodule "TTUD"]
+	path = TTUD
+	url = https://github.com/Trengmeri/TTUD.git
+[submodule "MMT"]
+	path = MMT
+	url = https://github.com/Trengmeri/MMT.git
